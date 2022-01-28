@@ -1,12 +1,4 @@
-# Projects
-
-## Systems Design Engineering 552 - Final Project (University of Waterloo)
-
-- Exploring Music Genre Classification using Dense Neural Networks
-- CNN models created using Tensorflow
-- Trained on GTZAN dataset and tested on custom dataset
-
-![SYDE 552](images/syde552.png)
+# Recent Projects
 
 ## School of Engineering Practice 758 - Final Project (McMaster University)
 
@@ -15,6 +7,14 @@
 - Leverages Firestore Authentication and Realtime Database
 
 ![SEP 758](images/sep758.png)
+
+## Systems Design Engineering 552 - Final Project (University of Waterloo)
+
+- Exploring Music Genre Classification using Dense Neural Networks
+- CNN models created using Tensorflow
+- Trained on GTZAN dataset and tested on custom dataset
+
+![SYDE 552](images/syde552.png)
 
 ## [Ontario Collegiate Rocket Soccer (OCRS) Twitch Broadcast Overlay](https://github.com/AlbertPangilinan/OCRS)
 
