@@ -16,7 +16,7 @@
 
 ![SYDE 552](images/syde552.png)
 
-## Advanced Geographic Information Systems - Final Project (University of Waterloo)
+## Advanced Geographic Information Systems - Research Project, 3D GIS Modelling and Simulation (University of Waterloo)
 
 - Rainfall Pooling Comparison between QGIS and Unity 3D Game Engine
 - Fluid simulation created in Unity using particle system and C# scripting
@@ -26,7 +26,7 @@
 ![GEOG 481](images/geog481.png)
 
 
-## Advanced Remote Sensing - Final Project (University of Waterloo)
+## Advanced Remote Sensing - Research Project, Tsunami Quantification and Analysis (University of Waterloo)
 
 - Quantifying Tsunamis using FCC/NDVI and Statistical Analyses
 - False colour composite and normalized difference vegetation index imagery generated using Google Earth Engine JavaScript API
