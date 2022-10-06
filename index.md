@@ -1,6 +1,6 @@
 # Recent Projects
 
-## Prototyping Mobile Applications - Final Project (McMaster University)
+## [Prototyping Mobile Applications - Final Project (McMaster University)](https://github.com/AlbertPangilinan/SEP758)
 
 - Rocket League Esports Companion App
 - Built using Dart and Flutter
@@ -8,7 +8,7 @@
 
 ![SEP 758](images/sep758.png)
 
-## Computational Neuroscience - Final Project (University of Waterloo)
+## [Computational Neuroscience - Final Project (University of Waterloo)](https://github.com/AlbertPangilinan/SYDE552)
 
 - Exploring Music Genre Classification using Dense Neural Networks
 - CNN models created using Tensorflow
@@ -39,5 +39,7 @@
 - Used in the live broadcast of [OCRS](https://www.twitch.tv/ontariocrs) Season 3
 - Retrieves real-time game events through web socket connection to [SOS Plugin](https://gitlab.com/bakkesplugins/sos/sos-plugin) for [BakkesMod](https://www.bakkesmod.com/)
 - Works seamlessly with [OBS Studio](https://obsproject.com/) streaming software
+- Rendered stream graphics in Unreal Engine 4 using [Psyonix Hype Chamber](https://www.unrealengine.com/en-US/spotlights/enter-the-rocket-league-hype-chamber-a-new-sample-for-broadcast-and-live-events)
 
 ![OCRS](images/ocrs.png)
+![OCRS](https://thumbs.gfycat.com/ThornyLankyFlyingfish-size_restricted.gif)
