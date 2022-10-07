@@ -1,5 +1,11 @@
 # Recent Projects
 
+## Deep Learning - Final Project (McMaster University)
+
+- Work in progress
+- Aerial Perspective Object Detection
+- Utilizing [Aerial Semantic Segmentation Drone Dataset](https://www.tugraz.at/index.php?id=22387)
+
 ## [Prototyping Mobile Applications - Final Project (McMaster University)](https://github.com/AlbertPangilinan/SEP758)
 
 - Rocket League Esports Companion App
@@ -12,7 +18,7 @@
 
 - Exploring Music Genre Classification using Dense Neural Networks
 - CNN models created using Tensorflow
-- Trained on GTZAN dataset and tested on custom dataset
+- Trained on [GTZAN Dataset](https://www.tensorflow.org/datasets/catalog/gtzan) and tested on custom dataset
 
 ![SYDE 552](images/syde552.png)
 
