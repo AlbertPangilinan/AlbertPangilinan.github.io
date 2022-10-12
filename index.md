@@ -1,6 +1,6 @@
 # Recent Projects
 
-## Deep Learning - Final Project (McMaster University)
+## [Deep Learning - Final Project (McMaster University)](https://github.com/AlbertPangilinan/SEP740)
 
 - Work in progress
 - Aerial Perspective Object Detection
