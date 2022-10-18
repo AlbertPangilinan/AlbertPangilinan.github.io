@@ -6,6 +6,8 @@
 - Aerial Perspective Object Detection
 - Utilizing [Aerial Semantic Segmentation Drone Dataset](https://www.tugraz.at/index.php?id=22387)
 
+![SEP 740](images/sep740.png)
+
 ## [Prototyping Mobile Applications - Final Project (McMaster University)](https://github.com/AlbertPangilinan/SEP758)
 
 - Rocket League Esports Companion App
