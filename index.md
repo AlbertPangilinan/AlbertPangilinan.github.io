@@ -2,9 +2,9 @@
 
 ## [Deep Learning - Final Project (McMaster University)](https://github.com/AlbertPangilinan/SEP740)
 
-- Work in progress
 - Aerial Perspective Object Detection
 - Utilizing [Aerial Semantic Segmentation Drone Dataset](https://www.tugraz.at/index.php?id=22387)
+- Semantic image segmentation using machine learning (random forest, KNN, naive Bayes) and deep learning (CNN: VGG-16)
 
 ![SEP 740](images/sep740.png)
 
