@@ -42,12 +42,12 @@
 
 ![GEOG 471](images/geog471.png)
 
-## [Ontario Collegiate Rocket Soccer (OCRS) Twitch Broadcast Overlay](https://github.com/AlbertPangilinan/OCRS)
+## [Canadian Collegiate Rocket Soccer (CCRS) Twitch Broadcast Overlay](https://github.com/AlbertPangilinan/OCRS)
 
-- Used in the live broadcast of [OCRS](https://www.twitch.tv/ontariocrs) Season 3
+- Used in the live broadcast of [CCRS](https://www.twitch.tv/canadiancrs)
 - Retrieves real-time game events through web socket connection to [SOS Plugin](https://gitlab.com/bakkesplugins/sos/sos-plugin) for [BakkesMod](https://www.bakkesmod.com/)
 - Works seamlessly with [OBS Studio](https://obsproject.com/) streaming software
 - Rendered stream graphics in Unreal Engine 4 using [Psyonix Hype Chamber](https://www.unrealengine.com/en-US/spotlights/enter-the-rocket-league-hype-chamber-a-new-sample-for-broadcast-and-live-events)
 
-![OCRS](images/ocrs.png)
-![OCRS](https://thumbs.gfycat.com/ThornyLankyFlyingfish-size_restricted.gif)
+![CCRS](images/ocrs.png)
+![CCRS](https://thumbs.gfycat.com/LividGreenElk-size_restricted.gif)
