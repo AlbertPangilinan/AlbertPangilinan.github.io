@@ -1,8 +1,18 @@
 # Recent Projects
 
+## Master of Engineering Design - Capstone Project (McMaster University)
+
+- Interactive Tool for an Effective Discharge from Alternate Level of Care
+- Devised a software application UI of an interactive tool to strengthen patient and family engagement in the ALC decision making process
+- Collaborated with healthcare professionals from St. Joseph's Healthcare Hamilton
+- Conducted patient interviews and user feasability tests to gain feedback for UI prototype iterations
+- Gained practical experience with industry technologies and processes while applying design thinking principles to a real world scenario
+
+![Project](images/project.png)
+
 ## [Deep Learning - Final Project (McMaster University)](https://github.com/AlbertPangilinan/SEP740)
 
-- Aerial Perspective Object Detection
+- Aerial Perspective Object Detection 
 - Utilizing [Aerial Semantic Segmentation Drone Dataset](https://www.tugraz.at/index.php?id=22387)
 - Semantic image segmentation using machine learning (random forest, KNN, naive Bayes) and deep learning (CNN: VGG-16)
 
