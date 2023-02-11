@@ -62,7 +62,7 @@
 
 ![GEOG 471](images/geog471.png)
 
-## [Canadian Collegiate Rocket Soccer (CCRS) Twitch Broadcast Overlay](https://github.com/AlbertPangilinan/OCRS)
+## [Canadian Collegiate Rocket Soccer (CCRS) Twitch Broadcast Overlay](https://github.com/AlbertPangilinan/CCRS)
 
 - Used in the live broadcast of [CCRS](https://www.twitch.tv/canadiancrs)
 - Retrieves real-time game events through web socket connection to [SOS Plugin](https://gitlab.com/bakkesplugins/sos/sos-plugin) for [BakkesMod](https://www.bakkesmod.com/)
