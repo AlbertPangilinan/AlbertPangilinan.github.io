@@ -8,13 +8,23 @@
 
 ![SEP 740](images/sep740.png)
 
-## [Prototyping Mobile Applications - Final Project (McMaster University)](https://github.com/AlbertPangilinan/SEP758)
+## Prototyping Web and Mobile Applications - Final Project (McMaster University)
 
-- Rocket League Esports Companion App
-- Built using Dart and Flutter
+### Rocket League Esports Companion Apps
+
+- [Web app](https://github.com/AlbertPangilinan/SEP759) built using Ruby
+- Utilizes [Devise](https://github.com/heartcombo/devise) for user authentication and authorization
+- Handles user reading and writing of data through JSON API
+
+![SEP 759](images/sep759_1.png)
+![SEP 759](images/sep759_2.png)
+
+- [Mobile app](https://github.com/AlbertPangilinan/SEP758) built using Dart and Flutter
 - Leverages Firestore Authentication and Realtime Database
+- Integrates Google Maps API for location-based functionality
 
-![SEP 758](images/sep758.png)
+![SEP 758](images/sep758_1.png)
+![SEP 758](images/sep758_2.png)
 
 ## [Computational Neuroscience - Final Project (University of Waterloo)](https://github.com/AlbertPangilinan/SYDE552)
 
