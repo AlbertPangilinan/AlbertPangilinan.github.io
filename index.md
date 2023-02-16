@@ -1,5 +1,17 @@
 # Recent Projects
 
+
+
+## [Deep Learning - Final Project (McMaster University)](https://github.com/AlbertPangilinan/SEP740)
+
+- Aerial Perspective Object Detection 
+- Utilizing [Aerial Semantic Segmentation Drone Dataset](https://www.tugraz.at/index.php?id=22387)
+- Semantic image segmentation using machine learning (random forest, KNN, naive Bayes) and deep learning (CNN: VGG-16)
+
+![SEP 740](images/sep740_1.png)
+![SEP 740](images/sep740_2.png)
+![SEP 740](images/sep740_3.png)
+
 ## Master of Engineering Design - Capstone Project (McMaster University)
 
 - Interactive Tool for an Effective Discharge from Alternate Level of Care
@@ -9,14 +21,6 @@
 - Gained practical experience with industry technologies and processes while applying design thinking principles to a real world scenario
 
 ![Project](images/project.png)
-
-## [Deep Learning - Final Project (McMaster University)](https://github.com/AlbertPangilinan/SEP740)
-
-- Aerial Perspective Object Detection 
-- Utilizing [Aerial Semantic Segmentation Drone Dataset](https://www.tugraz.at/index.php?id=22387)
-- Semantic image segmentation using machine learning (random forest, KNN, naive Bayes) and deep learning (CNN: VGG-16)
-
-![SEP 740](images/sep740.png)
 
 ## Prototyping Web and Mobile Applications - Final Project (McMaster University)
 
