@@ -1,7 +1,5 @@
 # Recent Projects
 
-
-
 ## [Deep Learning - Final Project (McMaster University)](https://github.com/AlbertPangilinan/SEP740)
 
 - Aerial Perspective Object Detection 
@@ -21,6 +19,15 @@
 - Gained practical experience with industry technologies and processes while applying design thinking principles to a real world scenario
 
 ![Project](images/project.png)
+
+## Augmented, Virtual, and Mixed Reality Development - Final Project (McMaster University)
+
+- Virtual Reality Sports Game
+- Features soccer (football) goalkeeper, bowling, and basketball game modes
+- Developed with Unity for Oculus Quest 2 and leverages Unity XR
+
+![SEP 791](images/sep791_1.png)
+![SEP 791](images/sep791_2.png)
 
 ## Prototyping Web and Mobile Applications - Final Project (McMaster University)
 
@@ -46,7 +53,8 @@
 - CNN models created using Tensorflow
 - Trained on [GTZAN Dataset](https://www.tensorflow.org/datasets/catalog/gtzan) and tested on custom dataset
 
-![SYDE 552](images/syde552.png)
+![SYDE 552](images/syde552_1.png)
+![SYDE 552](images/syde552_2.png)
 
 ## Advanced Geographic Information Systems - Research Project, 3D GIS Modelling and Simulation (University of Waterloo)
 
