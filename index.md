@@ -33,7 +33,7 @@
 
 ### Rocket League Esports Companion Apps
 
-- [Web app](https://github.com/AlbertPangilinan/SEP759) built using Ruby
+- [Web app](https://github.com/AlbertPangilinan/SEP759) built using Ruby/Ruby on Rails
 - Utilizes [Devise](https://github.com/heartcombo/devise) for user authentication and authorization
 - Handles user reading and writing of data through JSON API
 
