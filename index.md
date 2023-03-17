@@ -72,7 +72,8 @@
 - False colour composite and normalized difference vegetation index imagery generated using Google Earth Engine JavaScript API
 - Time series graphs created to determine long-term effects of tsunamis on local vegetation
 
-![GEOG 471](images/geog471.png)
+![GEOG 471](images/geog471_1.png)
+![GEOG 471](images/geog471_2.png)
 
 ## [Canadian Collegiate Rocket Soccer (CCRS) Twitch Broadcast Overlay](https://github.com/AlbertPangilinan/CCRS)
 
