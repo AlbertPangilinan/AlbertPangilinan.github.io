@@ -26,8 +26,7 @@
 - Features soccer (football) goalkeeper, bowling, and basketball game modes
 - Developed with Unity for Oculus Quest 2 and leverages Unity XR
 
-![SEP 791](images/sep791_1.png)
-![SEP 791](images/sep791_2.png)
+![SEP 791](images/sep791.png)
 
 ## Prototyping Web and Mobile Applications - Final Project (McMaster University)
 
