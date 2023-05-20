@@ -62,6 +62,7 @@
 - 3D models of UWaterloo campus generated using [Blender GIS](https://github.com/domlysz/BlenderGIS) plugin by importing ESRI shapefiles and DTM rasters
 
 ![GEOG 481](https://thumbs.gfycat.com/ComplexJointIndianpalmsquirrel-size_restricted.gif)
+<blockquote class="imgur-embed-pub" lang="en" data-id="GgEw4Sj"><a href="https://imgur.com/GgEw4Sj">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 ![GEOG 481](images/geog481.png)
 
 
