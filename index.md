@@ -83,4 +83,5 @@
 - Rendered stream graphics in Unreal Engine 4 using [Psyonix Hype Chamber](https://www.unrealengine.com/en-US/spotlights/enter-the-rocket-league-hype-chamber-a-new-sample-for-broadcast-and-live-events)
 
 ![CCRS](images/ocrs.png)
+<blockquote class="imgur-embed-pub" lang="en" data-id="xIvc2RP"><a href="https://imgur.com/xIvc2RP">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 ![CCRS](https://thumbs.gfycat.com/LividGreenElk-size_restricted.gif)
