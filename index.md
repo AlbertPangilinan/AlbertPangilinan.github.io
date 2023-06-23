@@ -74,12 +74,22 @@
 ![GEOG 471](images/geog471_1.png)
 ![GEOG 471](images/geog471_2.png)
 
-## [Canadian Collegiate Rocket Soccer (CCRS) Twitch Broadcast Overlay](https://github.com/AlbertPangilinan/CCRS)
+## Canadian Collegiate Rocket Soccer (CCRS)
+
+### [Twitch Broadcast Overlay](https://github.com/AlbertPangilinan/CCRS)
 
 - Used in the live broadcast of [CCRS](https://www.twitch.tv/canadiancrs)
 - Retrieves real-time game events through web socket connection to [SOS Plugin](https://gitlab.com/bakkesplugins/sos/sos-plugin) for [BakkesMod](https://www.bakkesmod.com/)
 - Works seamlessly with [OBS Studio](https://obsproject.com/) streaming software
 - Rendered stream graphics in Unreal Engine 4 using [Psyonix Hype Chamber](https://www.unrealengine.com/en-US/spotlights/enter-the-rocket-league-hype-chamber-a-new-sample-for-broadcast-and-live-events)
 
-![CCRS](images/ocrs.png)
+![CCRS-Overlay](images/ocrs.png)
 <blockquote class="imgur-embed-pub" lang="en" data-id="xIvc2RP"><a href="https://imgur.com/xIvc2RP">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+### [Config Editor App](https://github.com/AlbertPangilinan/CCRS-Overlay-Config)
+
+- Internal tool used by CCRS broadcast crew
+- Provides GUI for editing overlay information and team data `.json` files
+- Desktop Electron application built using React and Node.js
+
+![CCRS-Config](images/ccrs-config.png)
