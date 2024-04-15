@@ -90,6 +90,6 @@
 
 - Internal tool used by CCRS broadcast crew
 - Provides GUI for editing overlay information and team data `.json` files
-- Desktop Electron application built using React and Node.js
+- Windows desktop application built using Electron, React, and Node.js
 
 ![CCRS-Config](images/ccrs-config.png)
