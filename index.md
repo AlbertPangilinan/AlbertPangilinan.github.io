@@ -83,8 +83,8 @@
 - Works seamlessly with [OBS Studio](https://obsproject.com/) streaming software
 - Rendered stream graphics in Unreal Engine 4 using [Psyonix Hype Chamber](https://www.unrealengine.com/en-US/spotlights/enter-the-rocket-league-hype-chamber-a-new-sample-for-broadcast-and-live-events)
 
-![OCRS-Overlay](images/ocrs-overlay.png)
 ![CCRS-Overlay](images/ccrs-overlay.png)
+![OCRS-Overlay](images/ocrs-overlay.png)
 <blockquote class="imgur-embed-pub" lang="en" data-id="xIvc2RP"><a href="https://imgur.com/xIvc2RP">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### [Config Editor App](https://github.com/AlbertPangilinan/CCRS-Overlay-Config)
